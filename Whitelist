@@ -7,7 +7,6 @@
 1.gravatar.com
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 123movies.to
-gql.reddit.com
 1337.abcvg.info
 1337x.to
 1drv.com
@@ -36,6 +35,7 @@ gql.reddit.com
 9gag.com
 9to5google.com
 a-msedge.net
+a.manager-magazin.de
 a.trellocdn.com
 a1014.g.akamai.net
 a1856.da1.akamai.net
@@ -172,6 +172,7 @@ api.paypal.com
 api.peer5.com
 api.pinterest.com
 api.pluto.tv
+api.rlje.net
 api.sbs.com.au
 api.soundcloud.com
 api.target.com
@@ -195,6 +196,7 @@ app.snapchat.com
 appboot.netflix.com
 appengine.google.com
 appldnld.apple.com
+apple-dns.net
 apple.com
 appleid.apple.com
 appleid.cdn-apple.com
@@ -234,8 +236,10 @@ attestation.xboxlive.com
 au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
 audible.com
+audio-ake.spotify.com.edgesuite.net
 audio-ec.spotify.com
 audio2.spotify.com
+audio4-ak.spotify.com.edgesuite.net
 auditrecording-pa.googleapis.com
 auth.gfx.ms
 auth.snapchat.com
@@ -254,6 +258,7 @@ b.marfeelcache.com
 b2bapi.zee5.com
 baidu.com
 baltimore.cbslocal.com
+bamgrid.com
 banggood.com
 banners.spiceworks.com
 barenecessities.com
@@ -353,6 +358,7 @@ bydgoszcz.tvp.pl
 c.microsoft.com
 c.msn.com.nsatc.net
 c.s-microsoft.com
+c.spiegel.de
 c.trello.com
 c0.wp.com
 c1.microsoft.com
@@ -371,11 +377,14 @@ cbks0.googleapis.com
 cbks1.google.com
 cbks1.googleapis.com
 cbs.com
+cbsi.com
+cbsinteractive.hb.omtrdc.net
 cbsistatic.com
 ccleaner.com
 cd6.digitaltrends.com
 cda.pl
 cdc.gov
+cdn-apple.com
 cdn-audio-1.medium.com
 cdn-images-1.medium.com
 cdn-images-2.medium.com
@@ -412,8 +421,10 @@ cdn.onenote.net.edgekey.net
 cdn.onesignal.com
 cdn.optimizely.com
 cdn.perfdrive.com
+cdn.prod.www.spiegel.de
 cdn.ravenjs.com
 cdn.rawgit.com
+cdn.registerdisney.go.com
 cdn.samsungcloudsolution.com
 cdn.shopifycloud.com
 cdn.sstatic.net
@@ -421,8 +432,11 @@ cdn.ttgtmedia.com
 cdn.vidible.tv
 cdn.voscast.com
 cdn.w3schools.com
+cdn.www.spiegel.de
 cdn1.digitaltrends.com
+cdn1.manager-magazin.de
 cdn1.smartadserver.com
+cdn1.spiegel.de
 cdn2.digitaltrends.com
 cdn2.optimizely.com
 cdn3.digitaltrends.com
@@ -437,9 +451,11 @@ cdn7.es.digitaltrends.com
 cdn9.es.digitaltrends.com
 cdnapi.kaltura.com
 cdnapisec.kaltura.com
+cdninstagram.com
 cdnjs.cloudflare.com
 cdns.gigya.com
 cdnssl.softpedia.com
+cdp.cloud.unity3d.com
 cds.j3z9t3p6.hwcdn.net
 cdx.cedexis.net
 cernet-tracker.appspot.com
@@ -510,6 +526,7 @@ code.bildstatic.de
 code.google.com
 code.jquery.com
 codeanywhere.com
+codemasters.helpshift.com
 codepen.io
 coinbase.com
 collateral.medium.com
@@ -523,6 +540,7 @@ completion.amazon.com
 computer.howstuffworks.com
 conduit.mailchimpapp.com
 confib.ifmo.ru
+config.uca.cloud.unity3d.com
 conn.skype.akadns.net
 connect.googleforwork.com
 connect.soundcloud.com
@@ -537,6 +555,7 @@ content.production.cdn.art19.com
 continuum.dds.microsoft.com
 convertkit.com
 cookie.monster.com
+corona-datenspende.de
 corp.kaltura.com
 corpext.msitadfs.glbdns2.microsoft.com
 cosmopolitan.com
@@ -570,6 +589,9 @@ ctldl.windowsupdate.com
 curiosity.com
 customerevents.netflix.com
 cvs.com
+cws-iad1.conviva.com
+cws-sjc2.conviva.com
+cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 cy2.settings.data.microsoft.com.akadns.net
@@ -580,9 +602,11 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 da1.akamai.net
+daserste.de
 dashboard.plex.tv
 data.iana.org
 dataplicity.com
+datenspende.und-gesund.de
 db.local.clamav.net
 dbs.com
 dc.services.visualstudio.com
@@ -612,6 +636,7 @@ device-metrics-us.amazon.com
 device.auth.xboxlive.com
 device.auth.xboxlive.com 
 dhl.com
+di-wuhqj6gc.leasewebultracdn.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -621,6 +646,12 @@ directvapplications.hb.omtrdc.net
 directvnow.com
 discovermagazine.com
 discussions.apple.com
+disney-plus.net
+disney-portal.my.onetrust.com
+disney.demdex.net
+disneyplus.bn5x.net
+disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
 dispatch.kahuna.glbdns.microsoft.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
@@ -660,10 +691,13 @@ drop.ndtv.com.edgekey.net
 dropbox.com
 dshield.org
 dsms0mj1bbhn4.cloudfront.net
+dssott.com
 dts.podtrac.com
 duckduckgo.com
+dw.cbsi.com
 dw.techrepublic.com
 dynaimage.cdn.turner.com
+dyndns.variomedia.de
 dynupdate.no-ip.com
 e.getpocket.com
 e1.whatsapp.net
@@ -705,6 +739,7 @@ ebaystatic.com
 ec-ns.sascdn.com
 echo.edge.messenger.live.com
 ecn.dev.virtualearth.net
+ecommerce.iap.unity3d.com
 edata.ndtv.com
 edge-chat.facebook.com
 edge-mqtt.facebook.com
@@ -743,6 +778,7 @@ eth-us-west1.nanopool.org
 eth.2miners.com
 eth.nanopool.org
 ethermine.org
+eu.api.amazonvideo.com
 europe.equihash-hub.miningpoolhub.com
 event.mi.com
 events.data.microsoft.com
@@ -774,7 +810,14 @@ external-lhr9-1.xx.fbcdn.net
 extratorrent.cc
 extratorrent.com
 f.kinja-static.com
+f1-prod-production.apigee.net
+f1-prod-production.dn.apigee.net
 f1.media.brightcove.com
+f1mrs.codemasters.com
+f1tv-cdn-cent-east.formula1.com.c.footprint.net
+f1tv-cdn-cent-live.formula1.com.c.footprint.net
+f1tv-cdn-cent-west.formula1.com.c.footprint.net
+f1tv-livedata.formula1.com
 facebook.com
 facebook.net
 familydollar.com
@@ -788,6 +831,7 @@ fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fcm-stream.googleapis.com
 fcm.googleapis.com
+fe-lb.tranquilli.org
 fe2.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
@@ -816,6 +860,7 @@ firestore.googleapis.com
 flashx.tv
 flipboard.com
 flipkart.com
+fls-eu.amazon.com
 fls-na.amazon.com
 fm.tuba.pl
 fontawesome.com
@@ -825,6 +870,7 @@ footlocker-inc.com
 footlocker.com
 forbes.com
 forms.convertkit.com
+formula1.com
 forplaycatalog.com
 fortune.com
 forum.avast.com
@@ -878,6 +924,7 @@ gazeta.pl
 gcm-http.googleapis.com
 gcm.googleapis.com
 gdata.youtube.com
+gdmf.apple.com.akadns.net
 ge.tt
 gekko.spiceworks.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
@@ -910,6 +957,7 @@ gizmodo.com.au
 glamuse.com
 glbdns.microsoft.com
 gleam.io
+global.edge.bamgrid.com
 glyph.medium.com
 gmail.com
 gmail.google.com
@@ -1126,6 +1174,7 @@ googlehosted.l.googleusercontent.com
 googleusercontent.com
 googlevideo.com
 gq.com
+gql.reddit.com
 grainger.com
 graph.accountkit.com
 graph.facebook.com
@@ -1205,6 +1254,7 @@ i1.wp.com
 i1.ytimg.com
 i1195.photobucket.com
 i2.wp.com
+iadsdk.apple.com.akadns.net
 ibtimes.co.uk
 ibtimes.com
 icanhazip.com
@@ -1218,10 +1268,13 @@ id.sonyentertainmentnetwork.com
 ideone.com
 ifmo.ru
 ikea.com
+image-ard-de-cddc.at-o.net
+image.ard.de
 image.crisp.chat
 image.elephantjournal.com
 image.ibb.co
 image.prntscr.com
+images-amazon.com
 images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images.bitmoji.com
@@ -1261,6 +1314,9 @@ indianexpress.com
 indiatimes.com
 indiewire.com
 inference.location.live.net
+init-p01md-lb.push-apple.com.akadns.net
+init-p01md.apple.com
+init-p01st.push.apple.com
 instagram.com
 instalog-prod.sc-prod.net
 instantmessaging-pa.googleapis.com
@@ -1268,6 +1324,7 @@ intercom.io
 interflora.co.uk
 investopedia.com
 investorplace.com
+iphone-ld.origin-apple.com.akadns.net
 ipinfo.io
 ipla.tv
 ipleak.net
@@ -1284,6 +1341,7 @@ istockphoto.com
 itknowledgeexchange.techtarget.com
 itpapers.techrepublic.com
 itunes.apple.com
+itunes.com
 j.mp
 jabcreations.com
 japan.techrepublic.com
@@ -1307,6 +1365,7 @@ kaltura.com
 katowice.tvp.pl
 kb.adguard.com
 keystone.mwbsys.com
+keyvalueservice.fe.apple-dns.net
 kh.google.com
 khanacademy.org
 khm.l.google.com
@@ -1533,6 +1592,7 @@ malekal.com
 malwaredomainlist.com
 malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com
+manager-magazin-de.manager-magazin.de
 manifest.auditude.com
 manifest.googlevideo.com
 maps-api-ssl.google.com
@@ -1543,11 +1603,13 @@ maps.l.google.com
 maps.windows.com
 margevicius.lt
 market.android.com
+market.spotify.com
 marketwatch.com
 mashable.com
 maxcdn.bootstrapcdn.com
 mboxedge22.tt.omtrdc.net
 mcaf.ee
+mcdn.daserste.de
 mclients.googleapis.com
 media-ams3-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
@@ -1674,6 +1736,7 @@ mmi651.whatsapp.net
 mmi701.whatsapp.net
 mmi731.whatsapp.net
 mms.whatsapp.net
+mobile-ap.spotify.com
 mobile.bet365.com
 mobilenetworkscoring-pa.googleapis.com
 modapkdown.com
@@ -1691,6 +1754,7 @@ msftncsi.com
 msg.edit.yahoo.com
 msg.yahoo.com
 msh.amazon.com
+msmetrics.ws.sonos.com
 msn.com
 mt.l.google.com
 mt0.google.com
@@ -1754,6 +1818,7 @@ notifications.google.com
 notify.xboxlive.com
 notify.xboxlive.com 
 notlong.com
+np-edge-cdn.itunes-apple.com.akadns.net
 npmjs.com
 npr-news.streaming.adswizz.com
 nrdp.nccp.netflix.com
@@ -1883,6 +1948,7 @@ platform.twitter.com
 play.app.goo.gl
 play.google.com
 play.googleapis.com
+play.itunes.apple.com.edgesuite.net
 play.spotify.com
 play.spotify.edgekey.net
 playbooks-pa.googleapis.com
@@ -1915,6 +1981,7 @@ privacy-policy.truste.com
 private.minimafia.nl
 prnt.sc
 pro-accounts.snapchat.com
+prod-ripcut-delivery.disney-plus.net
 prod.imgur.map.fastlylb.net
 prod.telemetry.ros.rockstargames.com
 product.hubspot.com
@@ -2015,6 +2082,7 @@ s.youtube.com
 s.ytimg.com
 s.zkcdn.net
 s0-san.cloudinary.com.edgekey.net
+s0.2mdn.net
 s0.wp.com
 s1.symcb.com
 s1.wp.com
@@ -2041,6 +2109,7 @@ safebrowsing.google.com
 safebrowsing.googleapis.com
 safelinking.net
 samsung.com
+sanalytics.disneyplus.com
 sanfrancisco.cbslocal.com
 satkurier.pl
 satterly.neocities.org
@@ -2126,6 +2195,8 @@ smokingwheels.github.io
 smtp.mail.yahoo.com
 snap.com
 snapdeal.com
+sni.cdn.manager-magazin.de.c.footprint.net
+sni.cdn.www.spiegel.de.c.footprint.net
 softonic.com
 sohu.com
 solaredge.com
@@ -2145,6 +2216,7 @@ spclient.wg.spotify.com
 spencersonline.com
 spiceworks.com
 spicylingerie.com
+spiegel.de
 sport.onet.pl
 sport.pl
 sportrx.com
@@ -2214,6 +2286,7 @@ support.google.com
 support.microsoft.com
 support.mozilla.org
 surveymonkey.com
+svc90.main.px.t-online.de
 swcdn.apple.com
 sync.pocketcasts.com
 syndication.twitter.com
@@ -2221,6 +2294,7 @@ synology.com
 sysctl.org
 szczecin.tvp.pl
 t.appsflyer.com
+t.co
 t.nyaatracker.com
 t.paypal.com
 t.purch.com
@@ -2336,6 +2410,7 @@ tracker3.itzmx.com
 tracker4.itzmx.com
 tracking-protection.cdn.mozilla.net
 tracking.epicgames.com
+traffic.libsyn.com
 trak.in
 translate.google.com
 travel.latimes.com
@@ -2371,6 +2446,7 @@ unpkg.com
 unsplash.com
 update.code.visualstudio.com
 updates-http.cdn-apple.com
+upgrade.scdn.com
 upload.facebook.com
 upload.twitter.com
 uploaded.net
@@ -2394,6 +2470,7 @@ useraction.zee5.com-v2.edgekey.net
 userapi.zee5.com-v4.edgekey.net
 userstream.twitter.com
 uservoice.com
+uts-api-cdn.itunes-apple.com.akadns.net
 v.firebog.net
 v.shopify.com
 v.whatsapp.net
@@ -2420,6 +2497,8 @@ vimeo.com
 vitalia.pl
 vjs.zencdn.net
 vk.com
+vod-l3c-eu-north-2.media.dssott.com
+vod-l3c-eu-north-2.media.dssott.com.c.footprint.net
 vod.pl
 vod.tvp.pl
 vodafoneindia.tt.omtrdc.net
@@ -2485,6 +2564,7 @@ wirtualnemedia.pl
 wix.com
 womenshealthmag.com
 wordpress.com
+worldweather.wmo.int
 wp.com
 ws.audioscrobbler.com
 wsj.com
@@ -2541,6 +2621,7 @@ www.consent.truste.com
 www.crunchbase.com
 www.csp.medium.com
 www.ct.techrepublic.com
+www.dataplicity.com
 www.dbs.com
 www.developers.medium.com
 www.digitaltrends.com
@@ -2610,6 +2691,7 @@ www.namecheap.com
 www.nationalgeographic.com
 www.networksec.org
 www.nls.techrepublic.com
+www.no-ip.com
 www.noteworthy.medium.com
 www.npmjs.com
 www.o.aolcdn.com
@@ -2693,12 +2775,14 @@ yahoo.com
 yandex.ru
 yandy.com
 yimg.com
+yospace.com
 yourbrainonporn.com
 youtu.be
 youtube-dl.org
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
+yr.no
 yt3.ggpht.com
 ytimg.com
 ytimg.l.google.com
