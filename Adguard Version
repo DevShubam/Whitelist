@@ -631,8 +631,16 @@
 @@||developers.google.com^$important
 @@||developers.medium.com^$important
 @@||device-metrics-us-2.amazon.com^$important
-@@||device-metrics-us-2.amazon.com # Amazon Alexa^$important
 @@||device-metrics-us.amazon.com^$important
+@@||af.opera.com^$important
+@@||mhc-xpana-eu.myhomescreen.tv^$important
+@@||mhc-xpana-eu-s2.myhomescreen.tv^$important
+@@||mhc-xpana-us.myhomescreen.tv^$important
+@@||applicast.ga.sony.net^$important
+@@||portal.store.sonyentertainmentnetwork.com^$important
+@@||www.samsungotn.net^$important
+@@||api-tv.spotify.com^$iaportant
+@@||agfy.co^$important
 @@||device.auth.xboxlive.com^$important
 @@||device.auth.xboxlive.com ^$important
 @@||dhl.com^$important
