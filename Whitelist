@@ -631,10 +631,10 @@ developer.messenger.yahooapis.com
 developers.google.com
 developers.medium.com
 device-metrics-us-2.amazon.com
-device-metrics-us-2.amazon.com # Amazon Alexa
+af.opera.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
-device.auth.xboxlive.com 
+device.auth.xboxlive.com
 dhl.com
 di-wuhqj6gc.leasewebultracdn.com
 di.com.pl
@@ -1253,6 +1253,15 @@ i1.social.s-msft.com
 i1.wp.com
 i1.ytimg.com
 i1195.photobucket.com
+mhc-xpana-eu.myhomescreen.tv
+ngfts.lge.com
+applicast.ga.sony.net
+portal.store.sonyentertainmentnetwork.com
+deviceportal.nettvservices.com
+
+mhc-xpana-eu-s2.myhomescreen.tv
+mhc-xpana-us.myhomescreen.tv
+nflxvideo.net
 i2.wp.com
 iadsdk.apple.com.akadns.net
 ibtimes.co.uk
@@ -2331,15 +2340,15 @@ thedailybeast.com
 thefreethoughtproject.com
 theguardian.com
 thehill.com
+www.samsungotn.net
 themoviedb.com
 thenextweb.com
-thepiratebay.org
-thepiratebay.se
 thetracker.org
 thetvdb.com
 thevdb.com
 theverge.com
 thewindowsclub.com
+api-tv.spotify.com
 threatcrowd.org
 tid.canon.com
 tile-service.weather.microsoft.com
@@ -2439,6 +2448,7 @@ ubuntuforums.org
 ucweb.com
 ui.skype.com
 ui.skype.com pricelist.skype.com
+agfy.co
 unagi-eu.amazon.com
 underarmour.scene7.com
 unix.com
