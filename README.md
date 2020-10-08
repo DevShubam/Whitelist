@@ -3,9 +3,9 @@
 The best set it and forget it whitelist. The only one you will need, this list has domains from lot's of other whitelists. 
 
 # Overview
-| header | header |
-| ------ | ------ |
-| cell | cell |
+| Name | Description | Update Frequency | Raw Link| 
+| ------ | ------ | ---------------- |---------|
+| cell | cell | 
 | cell | cell |
 
 # Contact
