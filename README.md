@@ -5,7 +5,7 @@ The best set it and forget it whitelist. The only one you will need, this list h
 # Overview
 | Name | Description | Update Frequency | Raw Link| 
 | ------ | ------ | ---------------- |---------|
-| cell | cell | 
+| whitelist | This list is not good for use with adguard products. This can be used for Pi-Hole but that doesn't support adding a list all at once. Adding this list will solve lot's of problems. | 
 | cell | cell |
 
 # Contact
