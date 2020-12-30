@@ -1,5 +1,4 @@
-*.phncdn.com
-*.walmartimages.com
+walmartimages.com
 0-edge-chat.facebook.com
 0.client-channel.google.com
 0.gravatar.com
@@ -137,7 +136,6 @@
 4shared.com
 5-edge-chat.facebook.com
 50bang.org
-5471782.fls.doubleclick.net
 56.com
 6-edge-chat.facebook.com
 68post.vk.com
@@ -216,7 +214,6 @@ abtest.mistat.xiaomi.com
 abuse.ch
 acast.com
 access.redhat.com.edgekey.net
-account.adguard.com
 account.microsoft.com.edgekey.net
 account.xiaomi.com
 accounts.elephantjournal.com
@@ -250,7 +247,6 @@ ad.10010.com
 ad.2.cqcounter.com
 ad.abchina.com
 ad.docer.wps.cn
-ad.doubleclick.net
 ad.kazakinfo.com
 ad.ourgame.com
 ad2.uoocuniversity.com
@@ -280,7 +276,6 @@ adfoc.us
 adfocus.ru
 adfox.ru
 adguard.com
-adguardteam.github.io
 adidas.com
 adidas.ugc.bazaarvoice.com
 adidasjp.ugc.bazaarvoice.com
@@ -2006,7 +2001,6 @@ dot.tk
 dot.westus.pi-dns.com
 dot1dot1dot1.cloudflare-dns.com
 dotsub.com
-doubleclick.net
 douglas.ugc.bazaarvoice.com
 down-cdn.dingtalk.com
 down.sandai.net
@@ -3483,7 +3477,6 @@ kasperskycontenthub.com
 kataweb.it
 katespade.ugc.bazaarvoice.com
 katowice.tvp.pl
-kb.adguard.com
 kbb.ugc.bazaarvoice.com
 kcsoftwares.com
 kernel.org
@@ -4630,7 +4623,6 @@ packages.dps.mp.microsoft.com
 packages.linuxmint.com
 packagesapi-int.dps.mp.microsoft.com
 paddle.com
-pagead.l.doubleclick.net
 pagead2.googleadservices.com
 paimgcdn.baidu.com
 painton.ugc.bazaarvoice.com
