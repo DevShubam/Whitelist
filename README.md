@@ -1,6 +1,6 @@
 # Whitelist
 
-The best set it and forget it whitelist. The only one you will need, this list has domains from lot's of other whitelists. 
+This whitelist is in need of an update, and will be updated soon
 
 # Overview
 | Name | Description | Update Frequency | Raw Link| File Size |
