@@ -12,9 +12,7 @@
 
 ! Shopping
 
-! Game Sites
-
-! Software
+! Piracy
 
 ! Pinterest
 
@@ -72,3 +70,5 @@
 ! Discord
 
 ! Dropbox
+
+! Other
