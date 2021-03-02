@@ -3,6 +3,7 @@
 
 ! Accounts
 @@||accounts.reddit.com
+
 ! Netflix
 
 ! YouTube
@@ -16,6 +17,8 @@
 ! Software
 
 ! Apple / iOS
+@@||mesu.apple.com
+@@||apple.com
 
 ! Android
 
@@ -51,3 +54,4 @@
 
 ! Roku
 
+! Online Banks / Etc
