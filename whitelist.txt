@@ -47,7 +47,7 @@
 @@||github.io^
 @@||rawgithubusercontent.com^
 @@||.github.io^
-! Windows
+! Windows / Microsoft
 
 ! Microsoft
 
