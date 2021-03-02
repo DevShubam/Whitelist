@@ -1,0 +1,10 @@
+! Title: Whitelist 
+! Description: Whitelists domains I don't want blocked
+
+! Accounts
+
+! Entertainment
+
+! Shopping
+
+! Piracy
