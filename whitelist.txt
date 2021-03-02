@@ -68,3 +68,7 @@
 ! Online Banks / Etc
 
 ! Cloudflare
+
+! Discord
+
+! Dropbox
