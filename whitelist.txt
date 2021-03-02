@@ -1,8 +1,8 @@
 ! Title: Whitelist 
-! Description: Whitelists domains I don't want blocked
+! Description: Whitelists False Postives
 
 ! Accounts
-
+@@||accounts.reddit.com
 ! Entertainment
 
 ! Shopping
@@ -14,3 +14,21 @@
 ! Google
 
 ! Amazon
+
+! School
+
+! Messaging Apps
+
+! Instagram
+
+! Snapchat
+
+! Other Social Medias
+
+! Coding Sites
+
+! Windows
+
+! Whatsapp
+
+! Opera
