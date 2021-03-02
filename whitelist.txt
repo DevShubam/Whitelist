@@ -3,13 +3,21 @@
 
 ! Accounts
 @@||accounts.reddit.com
-! Entertainment
+! Netflix
+
+! YouTube
+
+! Sports
 
 ! Shopping
 
-! Piracy
+! Game Sites
 
-! Apple
+! Software
+
+! Apple / iOS
+
+! Android
 
 ! Google
 
@@ -29,12 +37,19 @@
 
 ! Windows
 
-! Whatsapp
+! Microsoft
 
 ! Opera
 
-! iOS Sites
+! iOS iPA / Jailbreak Sites
 
-! Android Sites
+! Android APK Sites
 
-! Non Profits
+! Cloud Storage / File Sharing / Archiving
+
+! Spotify + Apple Music
+
+! Gaming Consoles / Gaming 
+
+! Roku
+
