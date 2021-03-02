@@ -36,8 +36,11 @@
 
 ! Reading
 
-! Coding Sites
-
+! Git
+@@||github.com^
+@@||github.io^
+@@||rawgithubusercontent.com^
+@@||.github.io^
 ! Windows
 
 ! Microsoft
