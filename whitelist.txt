@@ -1,9 +1,6 @@
 ! Title: Whitelist 
 ! Description: Whitelists False Postives
 
-! Accounts
-@@||accounts.reddit.com
-
 ! Netflix
 
 ! YouTube
@@ -33,8 +30,12 @@
 ! Snapchat
 
 ! Reddit
+@@||accounts.reddit.com
+
 
 ! Twitter
+@@||analyitics.twitter.com !Required for links
+@@||twimg.com^ ! Images
 
 ! TikTok
 
