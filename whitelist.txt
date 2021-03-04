@@ -4,6 +4,8 @@
 ! Netflix
 
 ! YouTube
+@@||s.youtube.com 
+@@||video-stats.l.google.com
 
 ! Sports
 
@@ -20,6 +22,8 @@
 ! Android
 
 ! Google
+@@||clients4.google.com 
+@@||clients2.google.com
 
 ! Amazon
 
