@@ -30,7 +30,9 @@
 @@||clients2.google.com
 @@||android.clients.google.com
 @@||googleapis.l.google.com
+
 ! Amazon
+@@||mobileanalytics.us-east-1.amazonaws.com 
 
 ! Instagram / Facebook / Whatsapp / Messenger 
 @@||upload.facebook.com
