@@ -6,6 +6,10 @@
 ! YouTube
 @@||s.youtube.com 
 @@||video-stats.l.google.com
+@@||play.googleapis.com ! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/dvvxsly?utm_source=share&utm_medium=web2x&context=3
+@@||youtube.com
+@@||googlevideo.com
+@@||i.ytimg.com
 
 ! Sports
 
@@ -119,6 +123,9 @@
 @@||tracking.epicgames.com ! Required to make purchaes and to log in.
 
 ! Roku
+
+! Captcha
+@@||api-verify.recaptcha.net^
 
 ! Online Banks / Etc
 
