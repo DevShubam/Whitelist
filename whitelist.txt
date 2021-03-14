@@ -3,6 +3,13 @@
 
 ! Netflix
 @@||netflix.com
+@@||nflximg.com
+@@||nflxvideo.net
+@@||llnwd.net
+@@||nflximg.com
+@@||secure.netflix.com
+@@||appboot.netflix.com
+@@||uiboot.netflix.com
 
 ! YouTube
 @@||s.youtube.com 
@@ -75,8 +82,12 @@
 
 ! Snapchat
 
-! Reddit
+! Reddit 
 @@||accounts.reddit.com
+@@||reddit.com
+@@||i.reddit.com ! https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
+@@||redd.it
+@@||cdn.embedly.com
 
 
 ! Twitter
