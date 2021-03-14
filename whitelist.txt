@@ -22,7 +22,6 @@
 ! Pinterest
 
 ! Apple / iOS
-@@||mesu.apple.com
 @@||apple.com
 @@||appleid.apple.com
 
