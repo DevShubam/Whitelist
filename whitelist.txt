@@ -1,5 +1,5 @@
-! Title: Whitelist 
-! Description: Whitelists False Postives
+! Title: Shub's Whitelist 
+! Description: Curated Whitelist made to restrict false postives
 
 ! Netflix
 @@||netflix.com
