@@ -94,7 +94,8 @@
 @@||analyitics.twitter.com !Required for links
 @@||twimg.com^ ! Images
 
-! TikTok
+! Snapchat
+@@||app.snapchat.com
 
 ! Plex
 @@||.plex.tv ! See Issue #1
