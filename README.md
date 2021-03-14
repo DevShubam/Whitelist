@@ -17,3 +17,9 @@ Some services require domains that serve ads (ad.doubleclick.net) or tracking do
 All applications are different. **This list is NOT compatible with PiHole, and using it will cause more false positives.** This list **is 100% compatible** with uBlock Origin and all AdGuard products AdGuard Home, AdGuard Windows / Mac, AdGuard iOS / Android, etc.
 
 Please use the following domain to subscribe: https://raw.githubusercontent.com/DevShubam/Whitelist/master/whitelist.txt
+
+# Contributing
+
+Contributions are incredibly appreciated. Please, if you notice any domains that shouldn't be on the list, or domains that should, help out!
+
+You can create an issue, or contact me on Discord: Shub#5039
