@@ -19,8 +19,6 @@
 @@||googlevideo.com
 @@||i.ytimg.com
 
-! Sports
-
 ! Shopping
 @@||assets.adobedtm.com ! Lowe's checkout
 @@||nexus.ensighten.com ! Home Depot
@@ -30,9 +28,10 @@
 ! Pinterest
 
 ! Apple / iOS
-@@||mesu.apple.com
+@@||mesu.apple.com ! Required for updates and some app store apps
 @@||apple.com
 @@||appleid.apple.com
+@@||ax.phobos.apple.com.edgesuite.net ! Reccomended to be whitelisted by jfb-pihole
 
 ! Android
 @@||android.clients.google.com
@@ -98,6 +97,11 @@
 
 ! Plex
 @@||.plex.tv ! See Issue #1
+
+! Dropbox
+@@||dropbox.com
+@@||dl.dropbox.com
+@@||dl.dropboxusercontent.com
 
 ! Git
 @@||github.com^
