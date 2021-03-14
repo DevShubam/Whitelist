@@ -2,6 +2,7 @@
 ! Description: Whitelists False Postives
 
 ! Netflix
+@@||netflix.com
 
 ! YouTube
 @@||s.youtube.com 
@@ -22,6 +23,7 @@
 ! Pinterest
 
 ! Apple / iOS
+@@||mesu.apple.com
 @@||apple.com
 @@||appleid.apple.com
 
@@ -38,6 +40,7 @@
 @@||mobileanalytics.us-east-1.amazonaws.com 
 
 ! Instagram / Facebook / Whatsapp / Messenger 
+! Needs to be cleaned up
 @@||upload.facebook.com
 @@||creative.ak.fbcdn.net
 @@||external-lhr0-1.xx.fbcdn.net
@@ -82,7 +85,8 @@
 
 ! TikTok
 
-! Reading
+! Plex
+@@||.plex.tv ! See Issue #1
 
 ! Git
 @@||github.com^
@@ -92,6 +96,7 @@
 
 ! Windows / Microsoft
 @@||www.msftncsi.com
+@@||officeclient.microsoft.com
 @@||dl.delivery.mp.microsoft.com
 @@||geo-prod.do.dsp.mp.microsoft.com
 @@||displaycatalog.mp.microsoft.com 
