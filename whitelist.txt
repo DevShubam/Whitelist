@@ -10,6 +10,8 @@
 @@||secure.netflix.com
 @@||appboot.netflix.com
 @@||uiboot.netflix.com
+@@||api-global.netflix.com
+
 
 ! YouTube
 @@||youtu.be
@@ -98,7 +100,54 @@
 @@||app.snapchat.com
 
 ! Plex
-@@||.plex.tv ! See Issue #1
+@@||*.plex.tv ! See Issue #1
+plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.spop10.ams.plex.bz meta-db-worker02.pop.ric.plex.bz meta.plex.bz tvthemes.plexapp.com.cdn.cloudflare.net tvthemes.plexapp.com 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services meta.plex.tv cpms35.spop10.ams.plex.bz proxy.plex.tv metrics.plex.tv pubsub.plex.tv status.plex.tv www.plex.tv node.plexapp.com nine.plugins.plexapp.com staging.plex.tv app.plex.tv o1.email.plex.tv  o2.sg0.plex.tv dashboard.plex.tv
+
+! Smart TV ! See Issue #2
+@@||ngfts.lge.com ! LG
+@@||mhc-ajax-eu.myhomescreen.tv
+@@||mhc-ajax-eu-s2.myhomescreen.tv
+@@||mhc-ajax-us.myhomescreen.tv
+@@||mhc-eu.myhomescreen.tv
+@@||mhc-us.myhomescreen.tv
+@@||mhc-xpana-eu.myhomescreen.tv
+@@||mhc-xpana-eu-s2.myhomescreen.tv
+@@||mhc-xpana-us.myhomescreen.tv
+@@||vcs.vdspf.com
+@@||applicast.ga.sony.net
+@@||update.biv.sony.tv
+@@||deviceportal.nettvservices.com
+@@||epg.corio.com
+@@||ecdinterface.philips.com
+@@||auth.samsungosp.com
+@@||cdn.samsungcloudsolution.com 
+@@||infolink.pavv.co.kr
+@@||lcprd1.samsungcloudsolution.net
+@@||otnprd10.samsungcloudsolution.net
+@@||otnprd11.samsungcloudsolution.net
+@@||otnprd8.samsungcloudsolution.net
+@@||otnprd9.samsungcloudsolution.net
+@@||samsungosp.com
+@@||samsungotn.net
+@@||time.samsungcloudsolution.com
+@@||osb-ussvc.samsungqbe.com
+@@||otn.samsungcloudcdn.com
+@@||ns11.whois.co.kr
+@@||api.vizio.com
+@@||images.vizio.com
+@@||announcements.vizio.com
+@@||hbbtv.prosieben.de
+@@||hbbtv.redbutton.de
+@@||hbbtv.zdf.de
+@@||apicache.vudu.com
+@@||tv.deezer.com ! TV deezer apps
+@@||api.us.hismarttv.com
+@@||api.euro.hismarttv.com
+
+
+
+! Canon
+@@||gdlp01.c-wss.com
 
 ! Dropbox
 @@||dropbox.com
@@ -138,13 +187,12 @@
 @@||apresolve.spotify.com
 @@||itunes.apple.com
 @@||s.mzstatic.com
+@@||api-tv.spotify.com
 
-! Gaming Consoles / Gaming 
+! Gaming Consoles  Gaming 
 @@||prod.telemetry.ros.rockstargames.com ! GTA Online
 @@||tracking.epicgames.com ! Required to make purchaes and to log in.
 @@||telemetry-console.api.playstation.com ! Required for the PS5
-
-! Roku
 
 ! Zoom
 
