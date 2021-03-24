@@ -142,8 +142,11 @@
 ! Gaming Consoles / Gaming 
 @@||prod.telemetry.ros.rockstargames.com ! GTA Online
 @@||tracking.epicgames.com ! Required to make purchaes and to log in.
+@@||telemetry-console.api.playstation.com ! Required for the PS5
 
 ! Roku
+
+! Zoom
 
 ! Captcha
 @@||api-verify.recaptcha.net^
