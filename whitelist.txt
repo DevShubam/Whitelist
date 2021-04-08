@@ -189,10 +189,13 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 @@||s.mzstatic.com
 @@||api-tv.spotify.com
 
-! Gaming Consoles  Gaming 
+! Gaming Consoles / Gaming 
 @@||prod.telemetry.ros.rockstargames.com ! GTA Online
 @@||tracking.epicgames.com ! Required to make purchaes and to log in.
 @@||telemetry-console.api.playstation.com ! Required for the PS5
+
+! Weather
+@@||images.twnmm.com
 
 ! Zoom
 
