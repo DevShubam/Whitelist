@@ -1,0 +1,2 @@
+! Title: Shub's Ad Whitelist
+! Description: Whitelists ads on sites that are completely free and require advertising to run.
