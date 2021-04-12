@@ -47,40 +47,18 @@
 
 ! Amazon
 @@||mobileanalytics.us-east-1.amazonaws.com 
+@@||cognito-identity.us-east-1.amazonaws.com
+@@||unagi-na.amazon.com
+@@||ocsp.rootg2.amazontrust.com
+@@||det-ta-g7g.amazon.com
+@@||todo-ta-g7g.amazon.com
+@@||device-messaging-na.amazon.com
+@@||vs3-eu-west-1.amazonaws.com
+@@||us-east-1.amazonaws.com
+@@||device-metrics-us-2.amazon.com
+@@||device-metrics-us.amazon.com
+@@||sqs.us-east-1.amazonaws.com
 
-! Instagram / Facebook / Whatsapp / Messenger 
-! Needs to be cleaned up
-@@||upload.facebook.com
-@@||creative.ak.fbcdn.net
-@@||external-lhr0-1.xx.fbcdn.net
-@@||external-lhr1-1.xx.fbcdn.net
-@@||external-lhr10-1.xx.fbcdn.net
-@@||external-lhr2-1.xx.fbcdn.net
-@@||external-lhr3-1.xx.fbcdn.netex
-@@||ternal-lhr4-1.xx.fbcdn.net
-@@||external-lhr5-1.xx.fbcdn.net
-@@||external-lhr6-1.xx.fbcdn.net
-@@||external-lhr7-1.xx.fbcdn.net
-@@||external-lhr8-1.xx.fbcdn.net
-@@||external-lhr9-1.xx.fbcdn.net
-@@||fbcdn-creative-a.akamaihd.net
-@@||scontent-lhr3-1.xx.fbcdn.nets
-@@||content.xx.fbcdn.net
-@@||scontent.fgdl5-1.fna.fbcdn.net
-@@||graph.facebook.com
-@@||b-graph.facebook.com
-@@||connect.facebook.com
-@@||cdn.fbsbx.com
-@@||api.facebook.com
-@@||edge-mqtt.facebook.com
-@@||mqtt.c10r.facebook.com
-@@||portal.fb.com
-@@||star.c10r.facebook.com
-@@||star-mini.c10r.facebook.com
-@@||b-api.facebook.com
-@@||fb.me
-@@||bigzipfiles.facebook.com
-@@||l.facebook.com
 
 ! Snapchat
 
@@ -193,6 +171,10 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 @@||prod.telemetry.ros.rockstargames.com ! GTA Online
 @@||tracking.epicgames.com ! Required to make purchaes and to log in.
 @@||telemetry-console.api.playstation.com ! Required for the PS5
+@@||events.gfe.nvidia.com
+@@||gfwsl.geforce.com
+@@||ota-downloads.nvidia.com
+
 
 ! Weather
 @@||images.twnmm.com
@@ -202,17 +184,8 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 ! Captcha
 @@||api-verify.recaptcha.net^
 
-! Online Banks / Etc
-
-! Cloudflare
-
 ! Discord
-
-! Dropbox
-
-! VPN
-
-! Photo / Video hosting sites
+@@||discord.gg
 
 ! Bing
 @@||dev.virtualearth.net ! Bing Maps / Microsoft Flight Simulator
