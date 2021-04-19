@@ -1,5 +1,7 @@
 ! Title: Shub's Whitelist 
 ! Description: Curated Whitelist made to restrict false postives
+! Note, any comments are made for the domain listed below.
+
 
 ! Netflix
 @@||netflix.com
@@ -17,21 +19,26 @@
 @@||youtu.be
 @@||s.youtube.com 
 @@||video-stats.l.google.com
-@@||play.googleapis.com ! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/dvvxsly?utm_source=share&utm_medium=web2x&context=3
+! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/
+@@||play.googleapis.com
 @@||youtube.com
 @@||googlevideo.com
 @@||i.ytimg.com
 
 ! Shopping
-@@||assets.adobedtm.com ! Lowe's checkout
-@@||nexus.ensighten.com ! Home Depot
+! Lowe's
+@@||assets.adobedtm.com
+! Home Depot
+@@||nexus.ensighten.com
 
 ! Piracy
 
 ! Pinterest
 
 ! Apple / iOS
-@@||mesu.apple.com ! Required for updates and some app store apps
+
+!Required for updates and some app store apps
+@@||mesu.apple.com
 @@||apple.com
 @@||appleid.apple.com
 @@||ax.phobos.apple.com.edgesuite.net
@@ -63,26 +70,28 @@
 ! Snapchat
 
 ! Reddit 
+! With help from https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
 @@||accounts.reddit.com
 @@||reddit.com
-@@||i.reddit.com ! https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
+@@||i.reddit.com
 @@||redd.it
 @@||cdn.embedly.com
 
-
 ! Twitter
-@@||analyitics.twitter.com !Required for links
-@@||twimg.com^ ! Images
+! Required for links on the mobile app
+@@||analyitics.twitter.com
+! Required for images
+@@||twimg.com^
 
 ! Snapchat
 @@||app.snapchat.com
 
 ! Plex
-@@||*.plex.tv ! See Issue #1
-plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.spop10.ams.plex.bz meta-db-worker02.pop.ric.plex.bz meta.plex.bz tvthemes.plexapp.com.cdn.cloudflare.net tvthemes.plexapp.com 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services meta.plex.tv cpms35.spop10.ams.plex.bz proxy.plex.tv metrics.plex.tv pubsub.plex.tv status.plex.tv www.plex.tv node.plexapp.com nine.plugins.plexapp.com staging.plex.tv app.plex.tv o1.email.plex.tv  o2.sg0.plex.tv dashboard.plex.tv
+! See Issue #1
+@@||*.plex.tv 
 
 ! Smart TV ! See Issue #2
-@@||ngfts.lge.com ! LG
+@@||ngfts.lge.com
 @@||mhc-ajax-eu.myhomescreen.tv
 @@||mhc-ajax-eu-s2.myhomescreen.tv
 @@||mhc-ajax-us.myhomescreen.tv
@@ -118,7 +127,7 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 @@||hbbtv.redbutton.de
 @@||hbbtv.zdf.de
 @@||apicache.vudu.com
-@@||tv.deezer.com ! TV deezer apps
+@@||tv.deezer.com
 @@||api.us.hismarttv.com
 @@||api.euro.hismarttv.com
 
@@ -134,9 +143,8 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 
 ! Git
 @@||github.com^
-@@||github.io^
 @@||rawgithubusercontent.com^
-@@||.github.io^
+@@||*.github.io^
 
 ! Windows / Microsoft
 @@||www.msftncsi.com
@@ -167,10 +175,14 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 @@||s.mzstatic.com
 @@||api-tv.spotify.com
 
-! Gaming Consoles / Gaming 
-@@||prod.telemetry.ros.rockstargames.com ! GTA Online
-@@||tracking.epicgames.com ! Required to make purchaes and to log in.
-@@||telemetry-console.api.playstation.com ! Required for the PS5
+! Gaming Consoles / Gaming
+! GTA Online
+@@||prod.telemetry.ros.rockstargames.com
+! Required to make purchaes and to log in.
+@@||tracking.epicgames.com
+! Required for the PS5
+@@||telemetry-console.api.playstation.com
+! Nvidia / Geforce
 @@||events.gfe.nvidia.com
 @@||gfwsl.geforce.com
 @@||ota-downloads.nvidia.com
@@ -182,13 +194,14 @@ plex.tv tvdb2.plex.tv pubsub.plex.bz proxy.plex.bz proxy02.pop.ord.plex.bz cpms.
 ! Zoom
 
 ! Captcha
-@@||api-verify.recaptcha.net^
+@@||api-verify.recaptcha.net
 
 ! Discord
 @@||discord.gg
 
 ! Bing
-@@||dev.virtualearth.net ! Bing Maps / Microsoft Flight Simulator
+! Bing Maps / Microsoft Flight Simulator
+@@||dev.virtualearth.net
 @@||ecn.dev.virtualearth.net
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net
 @@||t0.ssl.ak.tiles.virtualearth.net
