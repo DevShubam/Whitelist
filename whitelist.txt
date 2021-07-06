@@ -1,6 +1,6 @@
 ! Title: Shub's Whitelist 
 ! Description: Curated Whitelist made to restrict false postives
-! Note, any comments are made for the domain listed below.
+! Note: Any comments are made for the domain listed below.
 
 
 ! Netflix
@@ -26,9 +26,8 @@
 @@||i.ytimg.com
 
 ! Shopping
-! Lowe's
+@@||shoppy.gg
 @@||assets.adobedtm.com
-! Home Depot
 @@||nexus.ensighten.com
 
 ! Piracy
