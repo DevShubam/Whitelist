@@ -5,6 +5,10 @@
 AdBlockers are awesome, and adding additional filters is even more awesome. What isn't awesome is having to deal with false positives, then having to manually whitelist domains.
 This whitelist attempts to stop the need of that.
 
+This list could be finding a new home located on the domain https://shubam.tech, I may also host it on a subdomain under https://g.shubam.tech/whitelist/list.txt or I also plan on making a https://whitelist.shubam.tech which will make the list easier to reach, and more visually appealing.
+
+I am 99.9% sure this list will always stay in this repo, but will also have a secondary link to it. 
+
 ### Will this catch all false positives?
 
 No. That's not possible.
