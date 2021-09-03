@@ -1,5 +1,5 @@
-! Title: Shub's Whitelist 
-! Description: Curated Whitelist made to restrict false postives
+! Title: Go to https://blockd.shubam.tech/whitelist.txt
+! Description: Go to https://blockd.shubam.tech/whitelist.txt
 ! Note: Any comments are made for the domain listed below.
 
 
