@@ -19,6 +19,4 @@ You can subscribe to the list with **one** of the following domains
 
 # Contributing
 
-Contributions are incredibly appreciated. Please, if you notice any domains that shouldn't be on the list, or domains that should, help out!
-
-You can create an issue, or contact me on Discord: Shub#5039
+Contributions are appreciated. You can create an [issue](https://github.com/DevShubam/Whitelist/issues) with entries that should be added or removed, or anything else that may be helpful.
