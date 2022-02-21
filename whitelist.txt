@@ -2,7 +2,6 @@
 ! Description: Whitelist for Ad Blockers, helps to unblock false positives. 
 ! Note: Any comments are made for the domain listed below.
 
-
 ! Netflix
 @@||netflix.com
 @@||nflximg.com
@@ -13,7 +12,6 @@
 @@||appboot.netflix.com
 @@||uiboot.netflix.com
 @@||api-global.netflix.com
-
 
 ! YouTube
 @@||youtu.be
@@ -29,10 +27,6 @@
 @@||shoppy.gg
 @@||assets.adobedtm.com
 @@||nexus.ensighten.com
-
-! Piracy
-
-! Pinterest
 
 ! Apple / iOS
 
@@ -64,9 +58,6 @@
 @@||device-metrics-us-2.amazon.com
 @@||device-metrics-us.amazon.com
 @@||sqs.us-east-1.amazonaws.com
-
-
-! Snapchat
 
 ! Reddit 
 ! With help from https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
@@ -130,8 +121,6 @@
 @@||api.us.hismarttv.com
 @@||api.euro.hismarttv.com
 
-
-
 ! Canon
 @@||gdlp01.c-wss.com
 
@@ -159,7 +148,6 @@
 @@||client-s.gateway.messenger.live.com
 @@||arc.msn.com
 
-
 ! Spotify + Apple Music
 @@||spclient.wg.spotify.com
 @@||apresolve.spotify.com
@@ -179,14 +167,11 @@
 @@||gfwsl.geforce.com
 @@||ota-downloads.nvidia.com
 
-
 ! Weather
 @@||images.twnmm.com
 
-
 ! Captcha
 @@||api-verify.recaptcha.net
-
 
 ! Bing
 ! Bing Maps / Microsoft Flight Simulator
