@@ -1,5 +1,5 @@
-! Title: Go to https://blockd.shubam.tech/whitelist.txt
-! Description: Go to https://blockd.shubam.tech/whitelist.txt
+! Title: Shub's Whitelist
+! Description: Whitelist for Ad Blockers, helps to unblock false positives. 
 ! Note: Any comments are made for the domain listed below.
 
 
@@ -85,11 +85,11 @@
 ! Snapchat
 @@||app.snapchat.com
 
-! Plex
-! See Issue #1
-@@||*.plex.tv 
+! Plex - Issue #1
+@@||app.plex.tv
+@@||dashboard.plex.tv
 
-! Smart TV ! See Issue #2
+! Smart TV - See Issue #2
 @@||ngfts.lge.com
 @@||mhc-ajax-eu.myhomescreen.tv
 @@||mhc-ajax-eu-s2.myhomescreen.tv
@@ -159,13 +159,6 @@
 @@||client-s.gateway.messenger.live.com
 @@||arc.msn.com
 
-! Opera
-
-! iOS iPA / Jailbreak Sites
-
-! Android APK Sites
-
-! Cloud Storage / File Sharing / Archiving
 
 ! Spotify + Apple Music
 @@||spclient.wg.spotify.com
@@ -190,13 +183,10 @@
 ! Weather
 @@||images.twnmm.com
 
-! Zoom
 
 ! Captcha
 @@||api-verify.recaptcha.net
 
-! Discord
-@@||discord.gg
 
 ! Bing
 ! Bing Maps / Microsoft Flight Simulator
