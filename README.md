@@ -6,7 +6,7 @@ This whitelist attempts to stop the need of that.
 
 No. That's not possible.
 
-Some services require domains that serve ads (ad.doubleclick.net) or tracking domains to be whitelisted. My goal is to not add those to the whitelist, that way anyone who uses the whitelist won't expierence ads and trackers.
+Some services require domains that serve ads (ad.doubleclick.net) or tracking domains to be whitelisted. My goal is to not add those to the whitelist, that way anyone who uses the whitelist won't have to deal with ads and trackers.
 
 
 # Installation
