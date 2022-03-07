@@ -19,7 +19,6 @@
 @@||video-stats.l.google.com
 ! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/
 @@||play.googleapis.com
-@@||youtube.com
 @@||googlevideo.com
 @@||i.ytimg.com
 
@@ -32,7 +31,6 @@
 
 !Required for updates and some app store apps
 @@||mesu.apple.com
-@@||apple.com
 @@||appleid.apple.com
 @@||ax.phobos.apple.com.edgesuite.net
 
@@ -62,7 +60,6 @@
 ! Reddit 
 ! With help from https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
 @@||accounts.reddit.com
-@@||reddit.com
 @@||i.reddit.com
 @@||redd.it
 @@||cdn.embedly.com
@@ -125,14 +122,11 @@
 @@||gdlp01.c-wss.com
 
 ! Dropbox
-@@||dropbox.com
 @@||dl.dropbox.com
 @@||dl.dropboxusercontent.com
 
 ! Git
-@@||github.com^
 @@||rawgithubusercontent.com^
-@@||*.github.io^
 
 ! Windows / Microsoft
 @@||www.msftncsi.com
