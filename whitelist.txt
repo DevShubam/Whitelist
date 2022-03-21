@@ -1,7 +1,7 @@
 ! Title: Shub's Whitelist
 ! Description: Whitelist for Ad Blockers, helps to unblock false positives. 
 ! Note: Any comments are made for the domain listed below.
-! ! Expires: 1 day
+! Expires: 1 day
 
 
 ! Netflix
