@@ -1,9 +1,10 @@
 ! Title: Shub's Whitelist
 ! Description: Whitelist for Ad Blockers, helps to unblock false positives. 
 ! Note: Any comments are made for the domain listed below.
+! ! Expires: 1 day
+
 
 ! Netflix
-@@||netflix.com
 @@||nflximg.com
 @@||nflxvideo.net
 @@||llnwd.net
@@ -23,7 +24,6 @@
 @@||i.ytimg.com
 
 ! Shopping
-@@||shoppy.gg
 @@||assets.adobedtm.com
 @@||nexus.ensighten.com
 
@@ -126,7 +126,7 @@
 @@||dl.dropboxusercontent.com
 
 ! Git
-@@||rawgithubusercontent.com^
+! soon
 
 ! Windows / Microsoft
 @@||www.msftncsi.com
