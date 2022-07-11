@@ -1,5 +1,5 @@
-# WORK IN PROGRESS
-# !!! DO NOT USE UNTILL THIS NOTICE IS REMOVED !!!
+# Whitelists affialte links
+# work in progress
 5014.xg4ken.com
 7eer.net
 action.metaffiliation.com
