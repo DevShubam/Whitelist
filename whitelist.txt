@@ -1,4 +1,4 @@
-! Title: Shub's Whitelist
+! Title: Please go to: https://github.com/DevShubam/Filters
 ! Description: Whitelist for Ad Blockers, helps to unblock false positives. 
 ! Note: Any comments are made for the domain listed below.
 ! Expires: 1 day
