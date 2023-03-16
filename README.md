@@ -1,4 +1,11 @@
 # Whitelist
+
+# MOVED
+I've moved these lists to my 'Filters' repo, so that everything can be in one place.
+https://github.com/DevShubam/Filters
+
+---
+
 AdBlockers are awesome, and adding additional filters is even more awesome. What isn't awesome is having to deal with false positives, then having to manually whitelist domains.
 This whitelist attempts to stop the need of that.
 
